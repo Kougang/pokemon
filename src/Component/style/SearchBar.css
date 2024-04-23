@@ -1,0 +1,19 @@
+.search-bar {
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: -5px;
+  padding-left: 15%;
+  /* padding-right: 3%; */
+}
+input {
+  height: 30px;
+  width: 70%;
+  border-radius: 10px;
+  margin-right: -10px;
+}
+
+button {
+  height: 37px;
+  background-color: rgb(158, 158, 223);
+  border-radius: 10px;
+}

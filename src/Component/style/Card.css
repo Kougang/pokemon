@@ -1,0 +1,38 @@
+.LinkPoke {
+  /* all: unset; */
+  margin: 4.7%;
+  border-radius: 20px;
+  /* background-color: rgb(60, 151, 64); */
+  width: 40%;
+}
+.LinkPoke:hover {
+  border: 2px solid green;
+  opacity: 0.8;
+  .imge {
+    border-color: green;
+  }
+}
+.card {
+  border-color: 10px solid blue;
+  margin-left: 10px;
+}
+.card-title {
+  text-align: center;
+  margin-left: -10px;
+}
+
+.image {
+  justify-content: center;
+  margin-top: -50px;
+  padding-left: 25%;
+}
+
+.imge {
+  border: 2px solid black;
+  border-radius: 50%;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+
+  margin-top: 10px;
+}

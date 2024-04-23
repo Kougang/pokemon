@@ -1,0 +1,13 @@
+.App {
+  /* text-align: center; */
+  padding-left: 32%;
+  padding-right: 32%;
+  background-color: antiquewhite;
+  margin-top: -10px;
+  margin-bottom: 150px;
+  padding-top: 10px;
+}
+
+.MyLink {
+  color: green;
+}
